@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - IQKeyboardManagerSwift (5.0.6)
+  - Kingfisher (4.3.1)
+  - ObjectMapper (3.1.0)
+  - PLeakSniffer (0.1.0)
+  - ReachabilitySwift (4.1.0)
+  - SnapKit (4.0.0)
+  - SQLite.swift (0.11.4):
+    - SQLite.swift/standard (= 0.11.4)
+  - SQLite.swift/standard (0.11.4)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5.0)
+  - AlamofireObjectMapper (~> 5.0)
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - PLeakSniffer
+  - ReachabilitySwift
+  - SnapKit (~> 4.0.0)
+  - SQLite.swift
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  IQKeyboardManagerSwift: 02bfbb0dff71c66d0ab77d80d25dfce0c3717735
+  Kingfisher: 75541c4b62f02e1fde6f9772303de3d9ebe8f5b3
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PLeakSniffer: f7eb13cd3a36150e0a2fd5fe8a33ca83bd2646d4
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SQLite.swift: 3e3bee21da701b5b9f87c4a672cb54f233505692
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: f738c11fab8718f5fce0668d59af59d120b6e8be
+
+COCOAPODS: 1.2.1

@@ -7,6 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E0F185C1FC7B5D100173470 /* Mine.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F185B1FC7B5D100173470 /* Mine.xcassets */; };
+		1E0F185E1FC7B5E900173470 /* Message.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F185D1FC7B5E900173470 /* Message.xcassets */; };
+		1E0F18601FC7B5FC00173470 /* Login.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F185F1FC7B5FC00173470 /* Login.xcassets */; };
+		1E0F18621FC7B60E00173470 /* Home.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F18611FC7B60E00173470 /* Home.xcassets */; };
+		1E0F18701FC7C1B400173470 /* JTLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F186F1FC7C1B400173470 /* JTLog.swift */; };
+		1E0F18721FC7E9FD00173470 /* JTWelcomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18711FC7E9FD00173470 /* JTWelcomeController.swift */; };
+		1E0F18741FC7F26500173470 /* Welcome.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F18731FC7F26500173470 /* Welcome.xcassets */; };
+		1E0F18A31FC8174600173470 /* MJRefreshAutoFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18791FC8174600173470 /* MJRefreshAutoFooter.m */; };
+		1E0F18A41FC8174600173470 /* MJRefreshBackFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F187B1FC8174600173470 /* MJRefreshBackFooter.m */; };
+		1E0F18A51FC8174600173470 /* MJRefreshComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F187D1FC8174600173470 /* MJRefreshComponent.m */; };
+		1E0F18A61FC8174600173470 /* MJRefreshFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F187F1FC8174600173470 /* MJRefreshFooter.m */; };
+		1E0F18A71FC8174600173470 /* MJRefreshHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18811FC8174600173470 /* MJRefreshHeader.m */; };
+		1E0F18A81FC8174600173470 /* MJRefreshAutoGifFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18861FC8174600173470 /* MJRefreshAutoGifFooter.m */; };
+		1E0F18A91FC8174600173470 /* MJRefreshAutoNormalFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18881FC8174600173470 /* MJRefreshAutoNormalFooter.m */; };
+		1E0F18AA1FC8174600173470 /* MJRefreshAutoStateFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F188A1FC8174600173470 /* MJRefreshAutoStateFooter.m */; };
+		1E0F18AB1FC8174600173470 /* MJRefreshBackGifFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F188D1FC8174600173470 /* MJRefreshBackGifFooter.m */; };
+		1E0F18AC1FC8174600173470 /* MJRefreshBackNormalFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F188F1FC8174600173470 /* MJRefreshBackNormalFooter.m */; };
+		1E0F18AD1FC8174600173470 /* MJRefreshBackStateFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18911FC8174600173470 /* MJRefreshBackStateFooter.m */; };
+		1E0F18AE1FC8174600173470 /* MJRefreshGifHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18941FC8174600173470 /* MJRefreshGifHeader.m */; };
+		1E0F18AF1FC8174600173470 /* MJRefreshNormalHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18961FC8174600173470 /* MJRefreshNormalHeader.m */; };
+		1E0F18B01FC8174600173470 /* MJRefreshStateHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18981FC8174600173470 /* MJRefreshStateHeader.m */; };
+		1E0F18B11FC8174600173470 /* MJRefresh.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F18991FC8174600173470 /* MJRefresh.bundle */; };
+		1E0F18B21FC8174600173470 /* MJRefreshConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F189C1FC8174600173470 /* MJRefreshConst.m */; };
+		1E0F18B31FC8174600173470 /* UIScrollView+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F189E1FC8174600173470 /* UIScrollView+MJExtension.m */; };
+		1E0F18B41FC8174600173470 /* UIScrollView+MJRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18A01FC8174600173470 /* UIScrollView+MJRefresh.m */; };
+		1E0F18B51FC8174600173470 /* UIView+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18A21FC8174600173470 /* UIView+MJExtension.m */; };
+		1E0F18B81FC8175700173470 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18B71FC8175700173470 /* MBProgressHUD.m */; };
+		1E0F18BC1FC81A8100173470 /* JTRefreshGifHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18BB1FC81A8100173470 /* JTRefreshGifHeader.swift */; };
+		1E0F18BE1FC81ABB00173470 /* JTRefreshGifFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18BD1FC81ABB00173470 /* JTRefreshGifFooter.swift */; };
+		1E0F18C01FC8223300173470 /* JTShareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F18BF1FC8223300173470 /* JTShareView.swift */; };
+		1E3A46871FCB9EFB00E6D802 /* CYRKeyboardButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3A467F1FCB9EFB00E6D802 /* CYRKeyboardButton.m */; };
+		1E3A46881FCB9EFB00E6D802 /* CYRKeyboardButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3A46811FCB9EFB00E6D802 /* CYRKeyboardButtonView.m */; };
+		1E3A46891FCB9EFB00E6D802 /* TurtleBezierPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3A46831FCB9EFB00E6D802 /* TurtleBezierPath.m */; };
+		1E3A468A1FCB9EFB00E6D802 /* LDDKeyboardView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3A46851FCB9EFB00E6D802 /* LDDKeyboardView.m */; };
+		1E3A468B1FCB9EFB00E6D802 /* LDDKeyboardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1E3A46861FCB9EFB00E6D802 /* LDDKeyboardView.xib */; };
+		1E3A468D1FCBA29100E6D802 /* keyboard.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E3A468C1FCBA29100E6D802 /* keyboard.xcassets */; };
 		1E6891381FC523D0000C3415 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891371FC523D0000C3415 /* AppDelegate.swift */; };
 		1E68913A1FC523D0000C3415 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891391FC523D0000C3415 /* ViewController.swift */; };
 		1E68913D1FC523D0000C3415 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E68913B1FC523D0000C3415 /* Main.storyboard */; };
@@ -14,6 +50,30 @@
 		1E6891421FC523D0000C3415 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E6891401FC523D0000C3415 /* LaunchScreen.storyboard */; };
 		1E68914D1FC523D1000C3415 /* Swift_baseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68914C1FC523D1000C3415 /* Swift_baseTests.swift */; };
 		1E6891581FC523D1000C3415 /* Swift_baseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891571FC523D1000C3415 /* Swift_baseUITests.swift */; };
+		1E6891701FC52D33000C3415 /* JTUserEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68916E1FC52D33000C3415 /* JTUserEntity.swift */; };
+		1E6891801FC52D4B000C3415 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891731FC52D4B000C3415 /* Array.swift */; };
+		1E6891811FC52D4B000C3415 /* NSBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891741FC52D4B000C3415 /* NSBundle.swift */; };
+		1E6891821FC52D4B000C3415 /* NSData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891751FC52D4B000C3415 /* NSData.swift */; };
+		1E6891831FC52D4B000C3415 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891761FC52D4B000C3415 /* String.swift */; };
+		1E6891841FC52D4B000C3415 /* UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891771FC52D4B000C3415 /* UIApplication.swift */; };
+		1E6891851FC52D4B000C3415 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891781FC52D4B000C3415 /* UIColor.swift */; };
+		1E6891861FC52D4B000C3415 /* UIDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891791FC52D4B000C3415 /* UIDevice.swift */; };
+		1E6891871FC52D4B000C3415 /* UIScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68917A1FC52D4B000C3415 /* UIScrollView.swift */; };
+		1E6891881FC52D4B000C3415 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68917B1FC52D4B000C3415 /* UIView.swift */; };
+		1E6891891FC52D4B000C3415 /* JTAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68917C1FC52D4B000C3415 /* JTAlertViewController.swift */; };
+		1E68918A1FC52D4B000C3415 /* JTCommon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68917D1FC52D4B000C3415 /* JTCommon.swift */; };
+		1E68918B1FC52D4B000C3415 /* JTConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68917E1FC52D4B000C3415 /* JTConfig.swift */; };
+		1E68918C1FC52D4B000C3415 /* JTUserUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68917F1FC52D4B000C3415 /* JTUserUtils.swift */; };
+		1E68918E1FC54D4A000C3415 /* JTBaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68918D1FC54D4A000C3415 /* JTBaseController.swift */; };
+		1E6891901FC55C5C000C3415 /* JTMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68918F1FC55C5C000C3415 /* JTMainViewController.swift */; };
+		1E6891921FC55DD4000C3415 /* JTHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891911FC55DD4000C3415 /* JTHomeViewController.swift */; };
+		1E6891951FC55DEF000C3415 /* JTLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891931FC55DEF000C3415 /* JTLoginViewController.swift */; };
+		1E6891961FC55DEF000C3415 /* JTLoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1E6891941FC55DEF000C3415 /* JTLoginViewController.xib */; };
+		1E6891981FC55E05000C3415 /* JTMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891971FC55E05000C3415 /* JTMessageViewController.swift */; };
+		1E68919A1FC55E2B000C3415 /* JTMineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891991FC55E2B000C3415 /* JTMineViewController.swift */; };
+		1E68919C1FC55E91000C3415 /* JTBaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E68919B1FC55E91000C3415 /* JTBaseNavigationController.swift */; };
+		1E6891A31FC563AD000C3415 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6891A01FC563AD000C3415 /* UIView+Extension.swift */; };
+		32C55D35BD01C9B8BE6DEA5C /* Pods_Swift_base.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF426864FAAFDB4096A57EC0 /* Pods_Swift_base.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +94,67 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1E0F185B1FC7B5D100173470 /* Mine.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Mine.xcassets; sourceTree = "<group>"; };
+		1E0F185D1FC7B5E900173470 /* Message.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Message.xcassets; sourceTree = "<group>"; };
+		1E0F185F1FC7B5FC00173470 /* Login.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Login.xcassets; sourceTree = "<group>"; };
+		1E0F18611FC7B60E00173470 /* Home.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Home.xcassets; sourceTree = "<group>"; };
+		1E0F186F1FC7C1B400173470 /* JTLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTLog.swift; sourceTree = "<group>"; };
+		1E0F18711FC7E9FD00173470 /* JTWelcomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTWelcomeController.swift; sourceTree = "<group>"; };
+		1E0F18731FC7F26500173470 /* Welcome.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Welcome.xcassets; sourceTree = "<group>"; };
+		1E0F18781FC8174600173470 /* MJRefreshAutoFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshAutoFooter.h; sourceTree = "<group>"; };
+		1E0F18791FC8174600173470 /* MJRefreshAutoFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshAutoFooter.m; sourceTree = "<group>"; };
+		1E0F187A1FC8174600173470 /* MJRefreshBackFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshBackFooter.h; sourceTree = "<group>"; };
+		1E0F187B1FC8174600173470 /* MJRefreshBackFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshBackFooter.m; sourceTree = "<group>"; };
+		1E0F187C1FC8174600173470 /* MJRefreshComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshComponent.h; sourceTree = "<group>"; };
+		1E0F187D1FC8174600173470 /* MJRefreshComponent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshComponent.m; sourceTree = "<group>"; };
+		1E0F187E1FC8174600173470 /* MJRefreshFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshFooter.h; sourceTree = "<group>"; };
+		1E0F187F1FC8174600173470 /* MJRefreshFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshFooter.m; sourceTree = "<group>"; };
+		1E0F18801FC8174600173470 /* MJRefreshHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshHeader.h; sourceTree = "<group>"; };
+		1E0F18811FC8174600173470 /* MJRefreshHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshHeader.m; sourceTree = "<group>"; };
+		1E0F18851FC8174600173470 /* MJRefreshAutoGifFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshAutoGifFooter.h; sourceTree = "<group>"; };
+		1E0F18861FC8174600173470 /* MJRefreshAutoGifFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshAutoGifFooter.m; sourceTree = "<group>"; };
+		1E0F18871FC8174600173470 /* MJRefreshAutoNormalFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshAutoNormalFooter.h; sourceTree = "<group>"; };
+		1E0F18881FC8174600173470 /* MJRefreshAutoNormalFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshAutoNormalFooter.m; sourceTree = "<group>"; };
+		1E0F18891FC8174600173470 /* MJRefreshAutoStateFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshAutoStateFooter.h; sourceTree = "<group>"; };
+		1E0F188A1FC8174600173470 /* MJRefreshAutoStateFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshAutoStateFooter.m; sourceTree = "<group>"; };
+		1E0F188C1FC8174600173470 /* MJRefreshBackGifFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshBackGifFooter.h; sourceTree = "<group>"; };
+		1E0F188D1FC8174600173470 /* MJRefreshBackGifFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshBackGifFooter.m; sourceTree = "<group>"; };
+		1E0F188E1FC8174600173470 /* MJRefreshBackNormalFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshBackNormalFooter.h; sourceTree = "<group>"; };
+		1E0F188F1FC8174600173470 /* MJRefreshBackNormalFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshBackNormalFooter.m; sourceTree = "<group>"; };
+		1E0F18901FC8174600173470 /* MJRefreshBackStateFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshBackStateFooter.h; sourceTree = "<group>"; };
+		1E0F18911FC8174600173470 /* MJRefreshBackStateFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshBackStateFooter.m; sourceTree = "<group>"; };
+		1E0F18931FC8174600173470 /* MJRefreshGifHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshGifHeader.h; sourceTree = "<group>"; };
+		1E0F18941FC8174600173470 /* MJRefreshGifHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshGifHeader.m; sourceTree = "<group>"; };
+		1E0F18951FC8174600173470 /* MJRefreshNormalHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshNormalHeader.h; sourceTree = "<group>"; };
+		1E0F18961FC8174600173470 /* MJRefreshNormalHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshNormalHeader.m; sourceTree = "<group>"; };
+		1E0F18971FC8174600173470 /* MJRefreshStateHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshStateHeader.h; sourceTree = "<group>"; };
+		1E0F18981FC8174600173470 /* MJRefreshStateHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshStateHeader.m; sourceTree = "<group>"; };
+		1E0F18991FC8174600173470 /* MJRefresh.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MJRefresh.bundle; sourceTree = "<group>"; };
+		1E0F189A1FC8174600173470 /* MJRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefresh.h; sourceTree = "<group>"; };
+		1E0F189B1FC8174600173470 /* MJRefreshConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshConst.h; sourceTree = "<group>"; };
+		1E0F189C1FC8174600173470 /* MJRefreshConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshConst.m; sourceTree = "<group>"; };
+		1E0F189D1FC8174600173470 /* UIScrollView+MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+MJExtension.h"; sourceTree = "<group>"; };
+		1E0F189E1FC8174600173470 /* UIScrollView+MJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+MJExtension.m"; sourceTree = "<group>"; };
+		1E0F189F1FC8174600173470 /* UIScrollView+MJRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+MJRefresh.h"; sourceTree = "<group>"; };
+		1E0F18A01FC8174600173470 /* UIScrollView+MJRefresh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+MJRefresh.m"; sourceTree = "<group>"; };
+		1E0F18A11FC8174600173470 /* UIView+MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+MJExtension.h"; sourceTree = "<group>"; };
+		1E0F18A21FC8174600173470 /* UIView+MJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+MJExtension.m"; sourceTree = "<group>"; };
+		1E0F18B61FC8175700173470 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		1E0F18B71FC8175700173470 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		1E0F18BA1FC8189D00173470 /* JTBridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JTBridging-Header.h"; sourceTree = "<group>"; };
+		1E0F18BB1FC81A8100173470 /* JTRefreshGifHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTRefreshGifHeader.swift; sourceTree = "<group>"; };
+		1E0F18BD1FC81ABB00173470 /* JTRefreshGifFooter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTRefreshGifFooter.swift; sourceTree = "<group>"; };
+		1E0F18BF1FC8223300173470 /* JTShareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTShareView.swift; sourceTree = "<group>"; };
+		1E3A467E1FCB9EFB00E6D802 /* CYRKeyboardButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYRKeyboardButton.h; sourceTree = "<group>"; };
+		1E3A467F1FCB9EFB00E6D802 /* CYRKeyboardButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYRKeyboardButton.m; sourceTree = "<group>"; };
+		1E3A46801FCB9EFB00E6D802 /* CYRKeyboardButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYRKeyboardButtonView.h; sourceTree = "<group>"; };
+		1E3A46811FCB9EFB00E6D802 /* CYRKeyboardButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYRKeyboardButtonView.m; sourceTree = "<group>"; };
+		1E3A46821FCB9EFB00E6D802 /* TurtleBezierPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TurtleBezierPath.h; sourceTree = "<group>"; };
+		1E3A46831FCB9EFB00E6D802 /* TurtleBezierPath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TurtleBezierPath.m; sourceTree = "<group>"; };
+		1E3A46841FCB9EFB00E6D802 /* LDDKeyboardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LDDKeyboardView.h; sourceTree = "<group>"; };
+		1E3A46851FCB9EFB00E6D802 /* LDDKeyboardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LDDKeyboardView.m; sourceTree = "<group>"; };
+		1E3A46861FCB9EFB00E6D802 /* LDDKeyboardView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LDDKeyboardView.xib; sourceTree = "<group>"; };
+		1E3A468C1FCBA29100E6D802 /* keyboard.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = keyboard.xcassets; sourceTree = "<group>"; };
 		1E6891341FC523D0000C3415 /* Swift-base.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-base.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E6891371FC523D0000C3415 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E6891391FC523D0000C3415 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +168,32 @@
 		1E6891531FC523D1000C3415 /* Swift-baseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift-baseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E6891571FC523D1000C3415 /* Swift_baseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_baseUITests.swift; sourceTree = "<group>"; };
 		1E6891591FC523D1000C3415 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E68916E1FC52D33000C3415 /* JTUserEntity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTUserEntity.swift; sourceTree = "<group>"; };
+		1E6891731FC52D4B000C3415 /* Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		1E6891741FC52D4B000C3415 /* NSBundle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSBundle.swift; sourceTree = "<group>"; };
+		1E6891751FC52D4B000C3415 /* NSData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSData.swift; sourceTree = "<group>"; };
+		1E6891761FC52D4B000C3415 /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		1E6891771FC52D4B000C3415 /* UIApplication.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIApplication.swift; sourceTree = "<group>"; };
+		1E6891781FC52D4B000C3415 /* UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		1E6891791FC52D4B000C3415 /* UIDevice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIDevice.swift; sourceTree = "<group>"; };
+		1E68917A1FC52D4B000C3415 /* UIScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIScrollView.swift; sourceTree = "<group>"; };
+		1E68917B1FC52D4B000C3415 /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		1E68917C1FC52D4B000C3415 /* JTAlertViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAlertViewController.swift; sourceTree = "<group>"; };
+		1E68917D1FC52D4B000C3415 /* JTCommon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTCommon.swift; sourceTree = "<group>"; };
+		1E68917E1FC52D4B000C3415 /* JTConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTConfig.swift; sourceTree = "<group>"; };
+		1E68917F1FC52D4B000C3415 /* JTUserUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTUserUtils.swift; sourceTree = "<group>"; };
+		1E68918D1FC54D4A000C3415 /* JTBaseController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTBaseController.swift; sourceTree = "<group>"; };
+		1E68918F1FC55C5C000C3415 /* JTMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTMainViewController.swift; sourceTree = "<group>"; };
+		1E6891911FC55DD4000C3415 /* JTHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTHomeViewController.swift; sourceTree = "<group>"; };
+		1E6891931FC55DEF000C3415 /* JTLoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTLoginViewController.swift; sourceTree = "<group>"; };
+		1E6891941FC55DEF000C3415 /* JTLoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JTLoginViewController.xib; sourceTree = "<group>"; };
+		1E6891971FC55E05000C3415 /* JTMessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTMessageViewController.swift; sourceTree = "<group>"; };
+		1E6891991FC55E2B000C3415 /* JTMineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTMineViewController.swift; sourceTree = "<group>"; };
+		1E68919B1FC55E91000C3415 /* JTBaseNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JTBaseNavigationController.swift; sourceTree = "<group>"; };
+		1E6891A01FC563AD000C3415 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		4848CDF5D42FB05696C0F033 /* Pods-Swift-base.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift-base.release.xcconfig"; path = "Pods/Target Support Files/Pods-Swift-base/Pods-Swift-base.release.xcconfig"; sourceTree = "<group>"; };
+		6D0263FF4DC666FB07F83B68 /* Pods-Swift-base.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift-base.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Swift-base/Pods-Swift-base.debug.xcconfig"; sourceTree = "<group>"; };
+		EF426864FAAFDB4096A57EC0 /* Pods_Swift_base.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Swift_base.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +201,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32C55D35BD01C9B8BE6DEA5C /* Pods_Swift_base.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +222,235 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0F18DF54452D23FFF350F7DD /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6D0263FF4DC666FB07F83B68 /* Pods-Swift-base.debug.xcconfig */,
+				4848CDF5D42FB05696C0F033 /* Pods-Swift-base.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		1E0F18631FC7B64A00173470 /* CustomUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CustomUI;
+			sourceTree = "<group>";
+		};
+		1E0F18641FC7B65400173470 /* CustomUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CustomUI;
+			sourceTree = "<group>";
+		};
+		1E0F18651FC7B65800173470 /* CustomUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CustomUI;
+			sourceTree = "<group>";
+		};
+		1E0F18661FC7B65C00173470 /* CustomUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CustomUI;
+			sourceTree = "<group>";
+		};
+		1E0F18671FC7B66100173470 /* CustomUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CustomUI;
+			sourceTree = "<group>";
+		};
+		1E0F18681FC7B69900173470 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		1E0F18691FC7B7B200173470 /* Manage */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Manage;
+			sourceTree = "<group>";
+		};
+		1E0F186A1FC7B87A00173470 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		1E0F186B1FC7B88C00173470 /* DataModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DataModel;
+			sourceTree = "<group>";
+		};
+		1E0F186C1FC7B93400173470 /* Vendors */ = {
+			isa = PBXGroup;
+			children = (
+				1E3A467C1FCB9EFB00E6D802 /* keyboard */,
+				1E0F18761FC8174600173470 /* MJRefresh */,
+				1E0F18751FC8174100173470 /* MBProgressHUD */,
+			);
+			path = Vendors;
+			sourceTree = "<group>";
+		};
+		1E0F186D1FC7BB9F00173470 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				1E68917D1FC52D4B000C3415 /* JTCommon.swift */,
+				1E68917E1FC52D4B000C3415 /* JTConfig.swift */,
+				1E68917F1FC52D4B000C3415 /* JTUserUtils.swift */,
+				1E0F186F1FC7C1B400173470 /* JTLog.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		1E0F186E1FC7BEB600173470 /* Welcome */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18731FC7F26500173470 /* Welcome.xcassets */,
+				1E0F18711FC7E9FD00173470 /* JTWelcomeController.swift */,
+			);
+			path = Welcome;
+			sourceTree = "<group>";
+		};
+		1E0F18751FC8174100173470 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18B61FC8175700173470 /* MBProgressHUD.h */,
+				1E0F18B71FC8175700173470 /* MBProgressHUD.m */,
+			);
+			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		1E0F18761FC8174600173470 /* MJRefresh */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18771FC8174600173470 /* Base */,
+				1E0F18821FC8174600173470 /* Custom */,
+				1E0F18991FC8174600173470 /* MJRefresh.bundle */,
+				1E0F189A1FC8174600173470 /* MJRefresh.h */,
+				1E0F189B1FC8174600173470 /* MJRefreshConst.h */,
+				1E0F189C1FC8174600173470 /* MJRefreshConst.m */,
+				1E0F189D1FC8174600173470 /* UIScrollView+MJExtension.h */,
+				1E0F189E1FC8174600173470 /* UIScrollView+MJExtension.m */,
+				1E0F189F1FC8174600173470 /* UIScrollView+MJRefresh.h */,
+				1E0F18A01FC8174600173470 /* UIScrollView+MJRefresh.m */,
+				1E0F18A11FC8174600173470 /* UIView+MJExtension.h */,
+				1E0F18A21FC8174600173470 /* UIView+MJExtension.m */,
+			);
+			path = MJRefresh;
+			sourceTree = "<group>";
+		};
+		1E0F18771FC8174600173470 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18781FC8174600173470 /* MJRefreshAutoFooter.h */,
+				1E0F18791FC8174600173470 /* MJRefreshAutoFooter.m */,
+				1E0F187A1FC8174600173470 /* MJRefreshBackFooter.h */,
+				1E0F187B1FC8174600173470 /* MJRefreshBackFooter.m */,
+				1E0F187C1FC8174600173470 /* MJRefreshComponent.h */,
+				1E0F187D1FC8174600173470 /* MJRefreshComponent.m */,
+				1E0F187E1FC8174600173470 /* MJRefreshFooter.h */,
+				1E0F187F1FC8174600173470 /* MJRefreshFooter.m */,
+				1E0F18801FC8174600173470 /* MJRefreshHeader.h */,
+				1E0F18811FC8174600173470 /* MJRefreshHeader.m */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		1E0F18821FC8174600173470 /* Custom */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18831FC8174600173470 /* Footer */,
+				1E0F18921FC8174600173470 /* Header */,
+			);
+			path = Custom;
+			sourceTree = "<group>";
+		};
+		1E0F18831FC8174600173470 /* Footer */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18841FC8174600173470 /* Auto */,
+				1E0F188B1FC8174600173470 /* Back */,
+			);
+			path = Footer;
+			sourceTree = "<group>";
+		};
+		1E0F18841FC8174600173470 /* Auto */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18851FC8174600173470 /* MJRefreshAutoGifFooter.h */,
+				1E0F18861FC8174600173470 /* MJRefreshAutoGifFooter.m */,
+				1E0F18871FC8174600173470 /* MJRefreshAutoNormalFooter.h */,
+				1E0F18881FC8174600173470 /* MJRefreshAutoNormalFooter.m */,
+				1E0F18891FC8174600173470 /* MJRefreshAutoStateFooter.h */,
+				1E0F188A1FC8174600173470 /* MJRefreshAutoStateFooter.m */,
+			);
+			path = Auto;
+			sourceTree = "<group>";
+		};
+		1E0F188B1FC8174600173470 /* Back */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F188C1FC8174600173470 /* MJRefreshBackGifFooter.h */,
+				1E0F188D1FC8174600173470 /* MJRefreshBackGifFooter.m */,
+				1E0F188E1FC8174600173470 /* MJRefreshBackNormalFooter.h */,
+				1E0F188F1FC8174600173470 /* MJRefreshBackNormalFooter.m */,
+				1E0F18901FC8174600173470 /* MJRefreshBackStateFooter.h */,
+				1E0F18911FC8174600173470 /* MJRefreshBackStateFooter.m */,
+			);
+			path = Back;
+			sourceTree = "<group>";
+		};
+		1E0F18921FC8174600173470 /* Header */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18931FC8174600173470 /* MJRefreshGifHeader.h */,
+				1E0F18941FC8174600173470 /* MJRefreshGifHeader.m */,
+				1E0F18951FC8174600173470 /* MJRefreshNormalHeader.h */,
+				1E0F18961FC8174600173470 /* MJRefreshNormalHeader.m */,
+				1E0F18971FC8174600173470 /* MJRefreshStateHeader.h */,
+				1E0F18981FC8174600173470 /* MJRefreshStateHeader.m */,
+			);
+			path = Header;
+			sourceTree = "<group>";
+		};
+		1E3A467C1FCB9EFB00E6D802 /* keyboard */ = {
+			isa = PBXGroup;
+			children = (
+				1E3A467D1FCB9EFB00E6D802 /* CYRKeyboardButton */,
+				1E3A46841FCB9EFB00E6D802 /* LDDKeyboardView.h */,
+				1E3A46851FCB9EFB00E6D802 /* LDDKeyboardView.m */,
+				1E3A46861FCB9EFB00E6D802 /* LDDKeyboardView.xib */,
+				1E3A468C1FCBA29100E6D802 /* keyboard.xcassets */,
+			);
+			path = keyboard;
+			sourceTree = "<group>";
+		};
+		1E3A467D1FCB9EFB00E6D802 /* CYRKeyboardButton */ = {
+			isa = PBXGroup;
+			children = (
+				1E3A467E1FCB9EFB00E6D802 /* CYRKeyboardButton.h */,
+				1E3A467F1FCB9EFB00E6D802 /* CYRKeyboardButton.m */,
+				1E3A46801FCB9EFB00E6D802 /* CYRKeyboardButtonView.h */,
+				1E3A46811FCB9EFB00E6D802 /* CYRKeyboardButtonView.m */,
+				1E3A46821FCB9EFB00E6D802 /* TurtleBezierPath.h */,
+				1E3A46831FCB9EFB00E6D802 /* TurtleBezierPath.m */,
+			);
+			path = CYRKeyboardButton;
+			sourceTree = "<group>";
+		};
 		1E68912B1FC523D0000C3415 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +458,8 @@
 				1E68914B1FC523D1000C3415 /* Swift-baseTests */,
 				1E6891561FC523D1000C3415 /* Swift-baseUITests */,
 				1E6891351FC523D0000C3415 /* Products */,
+				0F18DF54452D23FFF350F7DD /* Pods */,
+				54018FFD3ECDA03ABC20F9BE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +476,15 @@
 		1E6891361FC523D0000C3415 /* Swift-base */ = {
 			isa = PBXGroup;
 			children = (
-				1E6891371FC523D0000C3415 /* AppDelegate.swift */,
-				1E6891391FC523D0000C3415 /* ViewController.swift */,
-				1E68913B1FC523D0000C3415 /* Main.storyboard */,
-				1E68913E1FC523D0000C3415 /* Assets.xcassets */,
-				1E6891401FC523D0000C3415 /* LaunchScreen.storyboard */,
 				1E6891431FC523D0000C3415 /* Info.plist */,
+				1E6891371FC523D0000C3415 /* AppDelegate.swift */,
+				1E68918F1FC55C5C000C3415 /* JTMainViewController.swift */,
+				1E0F18BA1FC8189D00173470 /* JTBridging-Header.h */,
+				1E6891651FC52D17000C3415 /* Others */,
+				1E6891711FC52D4B000C3415 /* Common */,
+				1E6891661FC52D33000C3415 /* Classes */,
+				1E0F18681FC7B69900173470 /* Service */,
+				1E0F186C1FC7B93400173470 /* Vendors */,
 			);
 			path = "Swift-base";
 			sourceTree = "<group>";
@@ -125,6 +507,155 @@
 			path = "Swift-baseUITests";
 			sourceTree = "<group>";
 		};
+		1E6891651FC52D17000C3415 /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				1E6891391FC523D0000C3415 /* ViewController.swift */,
+				1E68913B1FC523D0000C3415 /* Main.storyboard */,
+				1E68913E1FC523D0000C3415 /* Assets.xcassets */,
+				1E6891401FC523D0000C3415 /* LaunchScreen.storyboard */,
+			);
+			path = Others;
+			sourceTree = "<group>";
+		};
+		1E6891661FC52D33000C3415 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1E6891671FC52D33000C3415 /* Controller */,
+				1E68916D1FC52D33000C3415 /* Model */,
+				1E68916F1FC52D33000C3415 /* View */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		1E6891671FC52D33000C3415 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F186E1FC7BEB600173470 /* Welcome */,
+				1E6891681FC52D33000C3415 /* Home */,
+				1E6891691FC52D33000C3415 /* Login */,
+				1E68916A1FC52D33000C3415 /* Message */,
+				1E68916B1FC52D33000C3415 /* Mine */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		1E6891681FC52D33000C3415 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18631FC7B64A00173470 /* CustomUI */,
+				1E0F18611FC7B60E00173470 /* Home.xcassets */,
+				1E6891911FC55DD4000C3415 /* JTHomeViewController.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		1E6891691FC52D33000C3415 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18641FC7B65400173470 /* CustomUI */,
+				1E0F185F1FC7B5FC00173470 /* Login.xcassets */,
+				1E6891931FC55DEF000C3415 /* JTLoginViewController.swift */,
+				1E6891941FC55DEF000C3415 /* JTLoginViewController.xib */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		1E68916A1FC52D33000C3415 /* Message */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18651FC7B65800173470 /* CustomUI */,
+				1E0F185D1FC7B5E900173470 /* Message.xcassets */,
+				1E6891971FC55E05000C3415 /* JTMessageViewController.swift */,
+			);
+			path = Message;
+			sourceTree = "<group>";
+		};
+		1E68916B1FC52D33000C3415 /* Mine */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18661FC7B65C00173470 /* CustomUI */,
+				1E0F185B1FC7B5D100173470 /* Mine.xcassets */,
+				1E6891991FC55E2B000C3415 /* JTMineViewController.swift */,
+			);
+			path = Mine;
+			sourceTree = "<group>";
+		};
+		1E68916C1FC52D33000C3415 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F18671FC7B66100173470 /* CustomUI */,
+				1E68918D1FC54D4A000C3415 /* JTBaseController.swift */,
+				1E68919B1FC55E91000C3415 /* JTBaseNavigationController.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		1E68916D1FC52D33000C3415 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				1E0F186A1FC7B87A00173470 /* ViewModel */,
+				1E0F186B1FC7B88C00173470 /* DataModel */,
+				1E68916E1FC52D33000C3415 /* JTUserEntity.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1E68916F1FC52D33000C3415 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1E6891711FC52D4B000C3415 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				1E68916C1FC52D33000C3415 /* Base */,
+				1E0F186D1FC7BB9F00173470 /* Helper */,
+				1E0F18691FC7B7B200173470 /* Manage */,
+				1E68919D1FC563AD000C3415 /* CommonUI */,
+				1E6891721FC52D4B000C3415 /* Extension */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		1E6891721FC52D4B000C3415 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				1E6891A01FC563AD000C3415 /* UIView+Extension.swift */,
+				1E6891731FC52D4B000C3415 /* Array.swift */,
+				1E6891741FC52D4B000C3415 /* NSBundle.swift */,
+				1E6891751FC52D4B000C3415 /* NSData.swift */,
+				1E6891761FC52D4B000C3415 /* String.swift */,
+				1E6891771FC52D4B000C3415 /* UIApplication.swift */,
+				1E6891781FC52D4B000C3415 /* UIColor.swift */,
+				1E6891791FC52D4B000C3415 /* UIDevice.swift */,
+				1E68917A1FC52D4B000C3415 /* UIScrollView.swift */,
+				1E68917B1FC52D4B000C3415 /* UIView.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		1E68919D1FC563AD000C3415 /* CommonUI */ = {
+			isa = PBXGroup;
+			children = (
+				1E68917C1FC52D4B000C3415 /* JTAlertViewController.swift */,
+				1E0F18BB1FC81A8100173470 /* JTRefreshGifHeader.swift */,
+				1E0F18BD1FC81ABB00173470 /* JTRefreshGifFooter.swift */,
+				1E0F18BF1FC8223300173470 /* JTShareView.swift */,
+			);
+			path = CommonUI;
+			sourceTree = "<group>";
+		};
+		54018FFD3ECDA03ABC20F9BE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EF426864FAAFDB4096A57EC0 /* Pods_Swift_base.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +663,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1E68915C1FC523D1000C3415 /* Build configuration list for PBXNativeTarget "Swift-base" */;
 			buildPhases = (
+				25BED700578620DDE4137BDD /* [CP] Check Pods Manifest.lock */,
 				1E6891301FC523D0000C3415 /* Sources */,
 				1E6891311FC523D0000C3415 /* Frameworks */,
 				1E6891321FC523D0000C3415 /* Resources */,
+				7E38D2D2F41D47DDBB762A28 /* [CP] Embed Pods Frameworks */,
+				CBB42587683786154CF8ADD2 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -232,9 +766,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E6891961FC55DEF000C3415 /* JTLoginViewController.xib in Resources */,
+				1E3A468B1FCB9EFB00E6D802 /* LDDKeyboardView.xib in Resources */,
 				1E6891421FC523D0000C3415 /* LaunchScreen.storyboard in Resources */,
+				1E0F18621FC7B60E00173470 /* Home.xcassets in Resources */,
 				1E68913F1FC523D0000C3415 /* Assets.xcassets in Resources */,
+				1E0F18601FC7B5FC00173470 /* Login.xcassets in Resources */,
+				1E3A468D1FCBA29100E6D802 /* keyboard.xcassets in Resources */,
+				1E0F185E1FC7B5E900173470 /* Message.xcassets in Resources */,
+				1E0F185C1FC7B5D100173470 /* Mine.xcassets in Resources */,
 				1E68913D1FC523D0000C3415 /* Main.storyboard in Resources */,
+				1E0F18B11FC8174600173470 /* MJRefresh.bundle in Resources */,
+				1E0F18741FC7F26500173470 /* Welcome.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,13 +797,111 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		25BED700578620DDE4137BDD /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		7E38D2D2F41D47DDBB762A28 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Swift-base/Pods-Swift-base-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CBB42587683786154CF8ADD2 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Swift-base/Pods-Swift-base-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		1E6891301FC523D0000C3415 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E6891841FC52D4B000C3415 /* UIApplication.swift in Sources */,
+				1E0F18B21FC8174600173470 /* MJRefreshConst.m in Sources */,
+				1E6891701FC52D33000C3415 /* JTUserEntity.swift in Sources */,
+				1E6891801FC52D4B000C3415 /* Array.swift in Sources */,
+				1E0F18AF1FC8174600173470 /* MJRefreshNormalHeader.m in Sources */,
+				1E0F18AD1FC8174600173470 /* MJRefreshBackStateFooter.m in Sources */,
+				1E3A46881FCB9EFB00E6D802 /* CYRKeyboardButtonView.m in Sources */,
+				1E3A46871FCB9EFB00E6D802 /* CYRKeyboardButton.m in Sources */,
 				1E68913A1FC523D0000C3415 /* ViewController.swift in Sources */,
+				1E6891951FC55DEF000C3415 /* JTLoginViewController.swift in Sources */,
+				1E3A46891FCB9EFB00E6D802 /* TurtleBezierPath.m in Sources */,
+				1E6891881FC52D4B000C3415 /* UIView.swift in Sources */,
+				1E3A468A1FCB9EFB00E6D802 /* LDDKeyboardView.m in Sources */,
+				1E68919C1FC55E91000C3415 /* JTBaseNavigationController.swift in Sources */,
+				1E0F18A51FC8174600173470 /* MJRefreshComponent.m in Sources */,
+				1E6891901FC55C5C000C3415 /* JTMainViewController.swift in Sources */,
+				1E6891851FC52D4B000C3415 /* UIColor.swift in Sources */,
+				1E0F18BC1FC81A8100173470 /* JTRefreshGifHeader.swift in Sources */,
+				1E0F18BE1FC81ABB00173470 /* JTRefreshGifFooter.swift in Sources */,
+				1E0F18A71FC8174600173470 /* MJRefreshHeader.m in Sources */,
+				1E0F18A91FC8174600173470 /* MJRefreshAutoNormalFooter.m in Sources */,
+				1E68918E1FC54D4A000C3415 /* JTBaseController.swift in Sources */,
+				1E6891861FC52D4B000C3415 /* UIDevice.swift in Sources */,
+				1E6891891FC52D4B000C3415 /* JTAlertViewController.swift in Sources */,
+				1E6891A31FC563AD000C3415 /* UIView+Extension.swift in Sources */,
+				1E68919A1FC55E2B000C3415 /* JTMineViewController.swift in Sources */,
+				1E0F18A41FC8174600173470 /* MJRefreshBackFooter.m in Sources */,
+				1E0F18AA1FC8174600173470 /* MJRefreshAutoStateFooter.m in Sources */,
+				1E0F18B81FC8175700173470 /* MBProgressHUD.m in Sources */,
+				1E6891811FC52D4B000C3415 /* NSBundle.swift in Sources */,
+				1E6891831FC52D4B000C3415 /* String.swift in Sources */,
+				1E6891921FC55DD4000C3415 /* JTHomeViewController.swift in Sources */,
+				1E68918C1FC52D4B000C3415 /* JTUserUtils.swift in Sources */,
+				1E0F18B01FC8174600173470 /* MJRefreshStateHeader.m in Sources */,
+				1E68918B1FC52D4B000C3415 /* JTConfig.swift in Sources */,
+				1E6891821FC52D4B000C3415 /* NSData.swift in Sources */,
+				1E0F18A81FC8174600173470 /* MJRefreshAutoGifFooter.m in Sources */,
+				1E0F18B31FC8174600173470 /* UIScrollView+MJExtension.m in Sources */,
+				1E0F18B51FC8174600173470 /* UIView+MJExtension.m in Sources */,
+				1E0F18701FC7C1B400173470 /* JTLog.swift in Sources */,
+				1E6891981FC55E05000C3415 /* JTMessageViewController.swift in Sources */,
+				1E0F18AB1FC8174600173470 /* MJRefreshBackGifFooter.m in Sources */,
+				1E0F18AE1FC8174600173470 /* MJRefreshGifHeader.m in Sources */,
+				1E0F18721FC7E9FD00173470 /* JTWelcomeController.swift in Sources */,
+				1E0F18C01FC8223300173470 /* JTShareView.swift in Sources */,
+				1E6891871FC52D4B000C3415 /* UIScrollView.swift in Sources */,
+				1E68918A1FC52D4B000C3415 /* JTCommon.swift in Sources */,
+				1E0F18A31FC8174600173470 /* MJRefreshAutoFooter.m in Sources */,
+				1E0F18AC1FC8174600173470 /* MJRefreshBackNormalFooter.m in Sources */,
+				1E0F18B41FC8174600173470 /* UIScrollView+MJRefresh.m in Sources */,
 				1E6891381FC523D0000C3415 /* AppDelegate.swift in Sources */,
+				1E0F18A61FC8174600173470 /* MJRefreshFooter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +1065,7 @@
 		};
 		1E68915D1FC523D1000C3415 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6D0263FF4DC666FB07F83B68 /* Pods-Swift-base.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -432,6 +1074,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jiangtun.Swift-base";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/koubutaos/Desktop/iOS-base/Swift-base/Swift-base/JTBridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -439,6 +1082,7 @@
 		};
 		1E68915E1FC523D1000C3415 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4848CDF5D42FB05696C0F033 /* Pods-Swift-base.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -447,6 +1091,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jiangtun.Swift-base";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/koubutaos/Desktop/iOS-base/Swift-base/Swift-base/JTBridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
